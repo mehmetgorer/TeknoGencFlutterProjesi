@@ -49,9 +49,9 @@ Bu projeyi cihazınızda çalıştırmak için aşağıdaki adımları izleyin:
   bash
   flutter run
 
-3.
+---
 
-##Ekran Görüntüleri // Screenshots
+## Ekran Görüntüleri // Screenshots
 
 
 ![](https://github.com/mehmetgorer/TeknoGencFlutterProjesi/blob/main/FlutterProjectScreenShots/1.JPG)
